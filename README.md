@@ -103,7 +103,7 @@ python query_db.py
 ```
 
 #Contribuciones
-Las contribuciones al proyecto son bienvenidas. Por favor comunicarse a cardozaferrerje@uvm.edu.ve para proponer algún cambio
+Las contribuciones al proyecto son bienvenidas. Por favor comunicarse mediante éste medio para proponer algún cambio.
 
 ##Estructura del proyecto
 
