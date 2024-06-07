@@ -41,7 +41,12 @@ python app.py
 ```
 
 ##Paso 2: Verificación del Servidor
-Abre una
+En la terminal en la que estás ejecutando tu servidor verás el contenido correspondiente que indica que todo está funcionando bien.
+
+De igual manera podrías intentar entrando en la dirección: 
+
+####127.0.0.1:5000
+
 # Uso del Sitio Web
 
 ## Navegación por las Páginas
