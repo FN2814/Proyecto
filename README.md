@@ -18,6 +18,10 @@ Este proyecto consiste en el desarrollo de un sitio web para una empresa fictici
 
 Clona el repositorio o descarga los archivos del proyecto a tu máquina local.
 
+Usa el siguiente enlace:
+
+- https://github.com/FN2814/Proyecto.git
+
 ### Paso 2: Instalar Dependencias
 
 Navega a la carpeta `backend` e instala las dependencias necesarias ejecutando los siguientes comandos:
